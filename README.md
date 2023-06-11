@@ -10,8 +10,8 @@ The data of 2020 is from `http://fuwu.rsj.beijing.gov.cn/nwesqintegralpublic/set
 
 
 ## 分析
-![分数线趋势](./img/score_trend.jpeg)
+![分数线趋势](./img/score_trend.jpg)
 
-![每年涨幅趋势](./img/increase_trend.jpeg)
+![每年涨幅趋势](./img/increase_trend.jpg)
 
 ## 分析结论
